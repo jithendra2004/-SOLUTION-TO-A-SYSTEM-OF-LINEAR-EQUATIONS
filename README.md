@@ -17,9 +17,14 @@ End the program
 #Program to find the solution for the given linear equations.
 #Developed by:v.a.jithendra
 #RegisterNumber:21005049
+
+
 import numpy as np
+
 A = np.array([[1,-3],[3,1]])
+
 B = np.array([0,10])
+
 sol = np.linalg.solve(A,B)
 print (sol)
 ## Output:
