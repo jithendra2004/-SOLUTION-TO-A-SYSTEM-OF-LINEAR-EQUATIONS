@@ -23,7 +23,7 @@ B = np.array([0,10])
 sol = np.linalg.solve(A,B)
 print (sol)
 ## Output:
-![output]
+![output](https://github.com/jithendra2004/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/main/output.png?raw=true)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
